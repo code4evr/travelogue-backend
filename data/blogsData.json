@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "unexplored",
+    "content": "The world is full of places that are yet to be explored. The world is full of places that are yet to be explored. \nThe world is full of places that are yet to be explored.",
+    "averageRating": 4.8,
+    "totalRatings": 100,
+    "views": 1000,
+    "date": "25-01-2020"
+  },
+  {
+    "id": 2,
+    "title": "Aurora Borealis",
+    "content": "The world is full of places that are yet to be explored. The world is full of places that are yet to be explored. \nThe world is full of places that are yet to be explored.",
+    "averageRating": 4.8,
+    "totalRatings": 100,
+    "views": 1000,
+    "date": "01-01-2020"
+  },
+  {
+    "id": 3,
+    "title": "Trekk to the Himalayas",
+    "content": "The world is full of places that are yet to be explored. The world is full of places that are yet to be explored. \nThe world is full of places that are yet to be explored.",
+    "averageRating": 4.8,
+    "totalRatings": 100,
+    "views": 1000,
+    "date": "12-01-2020"
+  },
+  {
+    "id": 4,
+    "title": "One week Trip To The North Eastern States",
+    "content": "The world is full of places that are yet to be explored. The world is full of places that are yet to be explored. \nThe world is full of places that are yet to be explored.",
+    "averageRating": 4.8,
+    "totalRatings": 100,
+    "views": 1000,
+    "date": "19-01-2020"
+  }
+]
